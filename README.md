@@ -1,0 +1,36 @@
+
+<h1 align="center">
+  <br>
+  <a href=""><img src="https://s31.picofile.com/file/8474260934/_2dc6c760_b5a1_4d92_91b4_53c63c743601_removebg_preview.png" alt="Mahdi Mousavinezhad" width="200"></a>
+  <br>
+  Mahdi Mousavinezhad
+</h1>
+
+<h4 align="center">This is Mahdi! A junior front end developer!</h4>
+
+## My expertise
+
+<p>
+
+<img alt="HTML5" src="https://img.shields.io/badge/Html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+<img alt="CSS3" src="https://img.shields.io/badge/Css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+<img alt="JavaScript" src="https://img.shields.io/badge/Javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+<img alt="Git" src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+<img alt="react" src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+<img alt="BootStrap" src="https://img.shields.io/badge/Bootstrap-8A2BE2.svg?style=for-the-badge&logo=bootstrap&logoColor=red" />
+<img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+<img alt="Material ui" src="https://img.shields.io/badge/-Material ui-%23007ACC?style=for-the-badge&logo=graphql&logoColor=white" />
+  
+
+</p>
+
+## My social networks
+<a href="">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
+</a>
+<a href="">
+    <img alt="YouTube" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" />
+</a>
+<a href="">
+    <img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+</a>
