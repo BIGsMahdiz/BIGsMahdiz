@@ -25,12 +25,12 @@
 </p>
 
 ## My social networks
-<a href="">
+<a href="https://www.instagram.com/https_mahdix">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
 </a>
-<a href="">
+<!-- <a href="">
     <img alt="YouTube" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" />
-</a>
-<a href="">
+</a> -->
+<a href="https://t.me/BIGsMahdi">
     <img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
