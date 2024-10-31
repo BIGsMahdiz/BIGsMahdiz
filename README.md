@@ -26,6 +26,7 @@
 
 </p>
 
+
 ## My social networks
 <a href="https://www.instagram.com/https_mahdix">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
@@ -36,3 +37,18 @@
 <a href="https://t.me/BIGsMahdi">
     <img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
+
+
+## GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BIGsMahdiz&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=BIGsMahdiz&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BIGsMahdiz&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
