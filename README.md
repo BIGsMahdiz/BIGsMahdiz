@@ -18,8 +18,9 @@
 <img alt="Git" src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
 <img alt="react" src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 <img alt="BootStrap" src="https://img.shields.io/badge/Bootstrap-8A2BE2.svg?style=for-the-badge&logo=bootstrap&logoColor=red" />
-<img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
 <img alt="Material ui" src="https://img.shields.io/badge/-Material ui-%23007ACC?style=for-the-badge&logo=graphql&logoColor=white" />
+<img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+<img alt="React Query" src="https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white" />
   
 
 </p>
