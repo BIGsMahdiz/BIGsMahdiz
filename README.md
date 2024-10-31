@@ -53,6 +53,6 @@
 </p>
 
 <a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=BIGsMahdiz&label=Profile%20Views&icon=5&pretty=false" />
+  <img src="https://visitcount.itsvg.in/api?id=BIGsMahdiz&label=Profile%20Views&color=6&icon=0&pretty=false" />
 </a>
 
