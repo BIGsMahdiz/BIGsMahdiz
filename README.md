@@ -52,3 +52,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BIGsMahdiz&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=BIGsMahdiz&label=Profile%20Views&icon=5&pretty=false" />
+</a>
+
