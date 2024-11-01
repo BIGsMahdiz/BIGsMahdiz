@@ -6,9 +6,9 @@
   Mahdi Mousavinezhad
 </h1>
 
-<h4 align="center">This is Mahdi! A junior front end developer!</h4>
+<h4 align="center">This is Mahdi! A junior front end developer!✨</h4>
 
-## My expertise
+## My Expertise💻
 
 <p>
 
@@ -27,7 +27,7 @@
 </p>
 
 
-## My social networks
+## My Social Networks🔗
 <a href="https://www.instagram.com/https_mahdix">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
 </a>
@@ -39,7 +39,7 @@
 </a>
 
 
-## GitHub Stats:
+## GitHub Stats📌
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BIGsMahdiz&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
